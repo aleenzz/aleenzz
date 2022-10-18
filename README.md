@@ -6,6 +6,3 @@
 - 💬微信公众号：404安全
 
 
-### 📈GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=aleenzz&show_icons=true)
